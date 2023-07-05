@@ -1,1 +1,1 @@
-My first readme
+Learning Software Engineering at ALX Africa
